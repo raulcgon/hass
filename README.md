@@ -1,0 +1,2 @@
+# hass
+home assistant interno
